@@ -1,1 +1,2 @@
-# Coding-Club-Tank-Game
+# CCDG
+Coding Club Development Game
